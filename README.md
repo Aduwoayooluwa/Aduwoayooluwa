@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fola
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Reactjs 
+- 🌱 I’m into web development and Data Science
 - 💞️ I’m looking to collaborate on any project related to frontend Development.
 - 📫 How to reach me. Mail me @ aduwoayooluwa@gmail.com
 
