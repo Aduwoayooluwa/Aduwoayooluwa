@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayo Aduwo
 - 🌱 I’m into web development and Data Science
-- 💞️ I’m looking to collaborate on any project related to frontend Development.
+- 💞️ I’m looking to collaborate on any project related to Web Development or Data Science.
 - 📫 How to reach me. Mail me @ aduwoayooluwa@gmail.com
 
 <!---
