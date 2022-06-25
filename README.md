@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ayo Aduwo
-- 🌱 I’m into web development.
-- 💞️ I’m looking to collaborate on any project related to Web Development
+- 🌱 I’m into Web development and everything JavaScript related
+- 💞️ I’m a Software Developer with over 3 years of Experience. I love pushing myself hard 
 
-<a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=bbx" width="400" alt="Ayo Aduwo's Dev Card"/></a>
+
 
 <!---
 Aduwoayooluwa/Aduwoayooluwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
