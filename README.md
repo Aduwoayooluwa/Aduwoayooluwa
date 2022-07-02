@@ -22,7 +22,7 @@
 
 <h1>
   hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
 <div align="center">
@@ -61,6 +61,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AduwoAyooluwa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Dev Card
+<a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="400" alt="Ayo Aduwo's Dev Card"/></a>
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
