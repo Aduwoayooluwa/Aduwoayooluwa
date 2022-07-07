@@ -64,6 +64,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluuwa&show_icons=true&theme=radical)
+
 ## My Dev Card
 <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="400" alt="Ayo Aduwo's Dev Card"/></a>
 
