@@ -59,10 +59,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### :fire: My Stats :
-
+<!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=blueberry_duo)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
