@@ -71,10 +71,7 @@
 ## My Dev Card
 <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="400" alt="Ayo Aduwo's Dev Card"/></a>
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!---
+
 Aduwoayooluwa/Aduwoayooluwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
