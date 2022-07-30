@@ -37,10 +37,18 @@
 - 🌱 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - ⚡ I am also a Technical Writer on Hashnode.
 - 🔭 In my free time I solve problems on Hackerrank.
+
+
+<div>
+  <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="200" alt="Ayo Aduwo's Dev Card"/></a>
+  </div>
+  
 ## Check out my Hashnode Blog
    <a href="https://ayoaduwo.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  
 
 
 
@@ -69,9 +77,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluwa&show_icons=true&theme=radical)
 
 ## My Dev Card
-<a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="400" alt="Ayo Aduwo's Dev Card"/></a>
+<div style="height: 100px; width: 80px">
 
-
-Aduwoayooluwa/Aduwoayooluwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
