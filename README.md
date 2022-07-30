@@ -37,11 +37,6 @@
 - 🌱 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - ⚡ I am also a Technical Writer on Hashnode.
 - 🔭 In my free time I solve problems on Hackerrank.
-
-
-<div>
-  <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="200" alt="Ayo Aduwo's Dev Card"/></a>
-  </div>
   
 ## Check out my Hashnode Blog
    <a href="https://ayoaduwo.hashnode.dev">
@@ -76,7 +71,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluwa&show_icons=true&theme=radical)
 
-## My Dev Card
-<div style="height: 100px; width: 80px">
 
-</div>
+## My Dev Card
+
+<div>
+  <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="200" alt="Ayo Aduwo's Dev Card"/></a>
+  </div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
