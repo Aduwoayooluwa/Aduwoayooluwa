@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300"/>
+ 
 </div> 
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AduwoAyooluwa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div id="badges">
