@@ -84,6 +84,9 @@
   <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="200" alt="Ayo Aduwo's Dev Card"/></a>
   </div>
   
+  ![Snake animation](https://github.com/AduwoAyooluwa/AduwoAyooluwa/blob/output/github-contribution-grid-snake.svg)
+
+  
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
