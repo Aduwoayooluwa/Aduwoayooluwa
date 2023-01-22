@@ -6,7 +6,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=AduwoAyooluwa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/aduwo-ayooluwa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -67,10 +67,12 @@
 ### :fire: My Stats :
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=blueberry_duo)](https://git.io/streak-stats) -->
+<div align="">
 
+   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&hide=jupyter%20notebook&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&hide=jupyter%20notebook&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -85,6 +87,7 @@
 
 <div>
   <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="200" alt="Ayo Aduwo's Dev Card"/></a>
+  </div>
   </div>
   
   ![Snake animation](https://github.com/AduwoAyooluwa/AduwoAyooluwa/blob/output/github-contribution-grid-snake.svg)
