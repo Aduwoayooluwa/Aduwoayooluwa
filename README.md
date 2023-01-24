@@ -3,6 +3,7 @@
  
 </div> 
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AduwoAyooluwa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
