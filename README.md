@@ -66,32 +66,31 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### :fire: My Stats :
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=blueberry_duo)](https://git.io/streak-stats) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=blueberry_duo)](https://git.io/streak-stats)
 <div align="">
 
    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&hide=jupyter%20notebook&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&hide=jupyter%20notebook&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&hide=jupyter%20notebook&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&hide=jupyter%20notebook&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluwa&show_icons=true&theme=radical)
- -->
+
 <span>
 
 </span>
 
 
-## My Dev Card
+<!-- ## My Dev Card
 
 <div>
   <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="200" alt="Ayo Aduwo's Dev Card"/></a>
   </div>
-  </div>
+  </div> -->
   
-  ![Snake animation](https://github.com/AduwoAyooluwa/AduwoAyooluwa/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/AduwoAyooluwa/AduwoAyooluwa/blob/output/github-contribution-grid-snake.svg) -->
 
   
   
