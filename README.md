@@ -42,7 +42,7 @@
 - 🔭 In my free time I solve problems on Hackerrank.
   
 ## Check out my Hashnode Blog
-   <a href="https://ayoaduwo.hashnode.dev">
+   <a href="https://codingpastor.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
   
@@ -78,6 +78,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluwa&show_icons=true&theme=radical)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AduwoAyooluwa)](https://github.com/anuraghazra/github-readme-stats)
 <span>
 
 </span>
