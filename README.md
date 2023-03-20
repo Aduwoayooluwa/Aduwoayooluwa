@@ -78,9 +78,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluwa&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AduwoAyooluwa)](https://github.com/anuraghazra/github-readme-stats)
-<span>
-
 </span>
 
 
