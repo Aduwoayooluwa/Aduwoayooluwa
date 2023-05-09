@@ -11,14 +11,14 @@
   <a href="https://linkedin.com/in/aduwo-ayooluwa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/AyoAduwo">
+  <a href="https://twitter.com/codingpastor">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
 <!--     <a href="https://codingpastor.hashnode.dev">
     <img src="" alt="Hashnode Badge"/>
   </a> -->
-   <a href="https://codingpastor.hashnode.dev">
+   <a href="https://codingpastor.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -68,20 +68,16 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AduwoAyooluwa&theme=blueberry_duo)](https://git.io/streak-stats)
-<div align="">
 
-   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&layout=compact&hide=jupyter%20notebook&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&langs_count=10&layout=compact&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AduwoAyooluwa&hide=jupyter%20notebook&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+  
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@codingpastor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluwa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AduwoAyooluwa&show_icons=true&theme=dark)
 
-</span>
-
-
-<!-- ## My Dev Card
+  <!-- ## My Dev Card
 
 <div>
   <a href="https://app.daily.dev/ayoaduwo"><img src="https://api.daily.dev/devcards/a79ce0bdf5f04deebd74763b2045c194.png?r=p4t" width="200" alt="Ayo Aduwo's Dev Card"/></a>
