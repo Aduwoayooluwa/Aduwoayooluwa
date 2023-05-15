@@ -1,7 +1,11 @@
+[![wakatime](https://wakatime.com/badge/user/7fa81f82-a70f-44d8-8b32-f80a98637f7f.svg)](https://wakatime.com/@7fa81f82-a70f-44d8-8b32-f80a98637f7f)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300"/>
  
 </div> 
+
+
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=AduwoAyooluwa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
