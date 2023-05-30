@@ -20,7 +20,7 @@
   </a>
   
 <!--     <a href="https://codingpastor.hashnode.dev">
-    <img src="" alt="Hashnodehj Badge"/>
+    <img src="" alt="HashnodrGetHehj Badge"/>
   </a> -->
    <a href="https://codingpastor.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
