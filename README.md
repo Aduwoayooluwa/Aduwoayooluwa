@@ -92,7 +92,3 @@
   
 <!--   ![Snake animation](https://github.com/AduwoAyooluwa/AduwoAyooluwa/blob/output/github-contribution-grid-snake.svg) -->
 
-  
-  
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
